@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Health Care</string>
+    <string name="nutrition_1_topic">1. Include protein with every meal</string>
+    <string name="nutrition_1">Including some protein with every meal can help balance blood sugar.
+
+Some studies suggest higher protein diets can be beneficial for type 2 diabetes.
+
+Other research indicates balancing blood sugar can support weight management and cardiovascular health.</string>
+    <string name="nutrition_2_topic">2. Eat oily fish</string>
+    <string name="nutrition_2">According to research, omega-3 fatty acids in oily fish are essential for cell signaling, gene expression, and brain and eye development.
+
+Some studies indicate that omega-3 fatty acids can reduce the risk of cardiovascular disease.
+
+Other research suggests the anti-inflammatory properties of omega-3 may effectively manage the early stages of degenerative diseases such as Alzheimer’s disease and Parkinson’s disease.</string>
+    <string name="nutrition_3_topic">3. Eat whole grains</string>
+    <string name="nutrition_3">The American Heart Association (AHA) recommend people eat whole grains rather than refined grains.
+
+Whole grains contain nutrients such as B vitamins, iron, and fiber. These nutrients are essential for body functions that include carrying oxygen in the blood, regulating the immune system, and balancing blood sugar.</string>
+    <string name="nutrition_4_topic">4. Eat a rainbow</string>
+    <string name="nutrition_4">The saying ‘eat a rainbow’ helps remind people to eat different colored fruits and vegetables.
+
+Varying the color of plant foods means that someone gets a wide variety of antioxidants beneficial to health, for example, carotenoids and anthocyanins.</string>
+    <string name="nutrition_5_topic">5. Eat your greens</string>
+    <string name="nutrition_5">Dark green leafy vegetables are a great source of nutrition, according to the Department of Agriculture (USDA).
+
+Leafy greens are rich in vitamins, minerals, and antioxidants.
+
+The USDA suggest that folate in leafy greens may help protect against cancer, while vitamin K helps prevent osteoporosis.</string>
+<string name="nutrition_6_topic">6. Include healthful fats</string>
+<string name="nutrition_6">People should limit their intake of saturated fats while avoiding trans fats, according to the USDA.
+
+A person can replace these fats with unsaturated fats, which they can find in foods such as avocado, oily fish, and vegetable oils.</string>
+    <string name="nutrition_7_topic">7. Use extra virgin olive oil</string>
+    <string name="nutrition_7">As part of the Mediterranean diet, extra virgin olive oil has benefits to the heart, blood pressure, and weight, according to a 2018 health report.
+
+A person can include extra virgin olive oil in their diet by adding it to salads or vegetables or cooking food at low temperatures.</string>
+    <string name="nutrition_8_topic">8. Eat nuts</string>
+    <string name="nutrition_8">According to the AHA, eating one serving of nuts daily in place of red or processed meat, french fries, or dessert may benefit health and prevent long-term weight gain.
+
+The AHA suggest that Brazil nuts, in particular, may help someone feel fuller and stabilize their blood sugar.</string>
+    <string name="nutrition_9_topic">9. Get enough fiber</string>
+    <string name="nutrition_9">According to the AHA, fiber can help improve blood cholesterol levels and lower the risk of heart disease, obesity, and type 2 diabetes.
+
+People can get enough fiber in their diet by eating whole grains, vegetables, beans, and pulses.</string>
+    <string name="nutrition_10_topic">10. Increase plant foods</string>
+    <string name="nutrition_10">Research suggests that plant-based diets may help prevent overweight and obesity. Doctors associate obesity with many diseases.
+
+According to some studies, including more plant foods in the diet could reduce the risk of developing diseases such as diabetes and cardiovascular disease.</string>
+
+</resources>

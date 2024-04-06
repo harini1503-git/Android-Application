@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/splash_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project"
+        tools:targetApi="31">
+        <activity
+            android:name=".leg_up_crunchesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".wind_millActivity"
+            android:exported="false" />
+        <activity
+            android:name=".vertica_leg_crunchesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bridgeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".russian_twistActivity"
+            android:exported="false" />
+        <activity
+            android:name=".plank_with_leg_leftActivity"
+            android:exported="false" />
+        <activity
+            android:name=".plank_rotationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".malternative_V_UpsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".sit_upActivity"
+            android:exported="false" />
+        <activity
+            android:name=".leg_raiseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bicycle_crunchesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bench_dipsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".basic_crunchesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".mountain_claimberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity14"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity13"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity12"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity11"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity10"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity9"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TimeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ThirdActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".FoodActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".SecondActivity1"
+            android:exported="false" />
+        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
